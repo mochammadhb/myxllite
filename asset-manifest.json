@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myxllite/static/css/main.e18e9bf5.css",
+    "main.js": "/myxllite/static/js/main.e8a6a9b4.js",
+    "index.html": "/myxllite/index.html",
+    "main.e18e9bf5.css.map": "/myxllite/static/css/main.e18e9bf5.css.map",
+    "main.e8a6a9b4.js.map": "/myxllite/static/js/main.e8a6a9b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18e9bf5.css",
+    "static/js/main.e8a6a9b4.js"
+  ]
+}
